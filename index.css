@@ -1,0 +1,45 @@
+body {
+    background-image: url("hanbok.jpg") ;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 2px 0px 3px brown;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 6px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: whitesmoke;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 25px;
+}
+
+#increment-btn {
+    background: palevioletred;
+}
+
+#save-btn {
+    background: olivedrab;
+}
+
+.text {
+    max-width: 150vh;
+}
+
